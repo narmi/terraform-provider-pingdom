@@ -5519,6 +5519,7 @@ components:
             $ref: '#/components/schemas/State'
           type: array
       type: object
+      x-go-name: CheckStatusID
     ReportStatusSingle:
       properties:
         report:
