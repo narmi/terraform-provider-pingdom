@@ -6,7 +6,7 @@ require (
 	github.com/getkin/kin-openapi v0.122.0
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.31.0
 	github.com/labstack/echo/v4 v4.11.4
-	github.com/oapi-codegen/runtime v1.1.0
+	github.com/oapi-codegen/runtime v1.1.1
 )
 
 require (
@@ -18,7 +18,7 @@ require (
 	github.com/go-openapi/swag v0.22.4 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
-	github.com/google/uuid v1.4.0 // indirect
+	github.com/google/uuid v1.5.0 // indirect
 	github.com/hashicorp/go-cty v1.4.1-0.20200414143053-d3edf31b6320 // indirect
 	github.com/hashicorp/go-hclog v1.5.0 // indirect
 	github.com/hashicorp/go-plugin v1.6.0 // indirect
