@@ -3,7 +3,7 @@ module github.com/narmi/terraform-provider-pingdom
 go 1.21.4
 
 require (
-	github.com/getkin/kin-openapi v0.124.0
+	github.com/getkin/kin-openapi v0.125.0
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.33.0
 	github.com/labstack/echo/v4 v4.12.0
 	github.com/oapi-codegen/runtime v1.1.1
