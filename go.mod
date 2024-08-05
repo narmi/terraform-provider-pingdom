@@ -3,7 +3,7 @@ module github.com/narmi/terraform-provider-pingdom
 go 1.21.4
 
 require (
-	github.com/getkin/kin-openapi v0.124.0
+	github.com/getkin/kin-openapi v0.127.0
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.33.0
 	github.com/labstack/echo/v4 v4.12.0
 	github.com/oapi-codegen/runtime v1.1.1
@@ -14,8 +14,8 @@ require (
 	github.com/apapsch/go-jsonmerge/v2 v2.0.0 // indirect
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
 	github.com/fatih/color v1.16.0 // indirect
-	github.com/go-openapi/jsonpointer v0.20.2 // indirect
-	github.com/go-openapi/swag v0.22.8 // indirect
+	github.com/go-openapi/jsonpointer v0.21.0 // indirect
+	github.com/go-openapi/swag v0.23.0 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/uuid v1.5.0 // indirect
@@ -31,7 +31,7 @@ require (
 	github.com/hashicorp/terraform-registry-address v0.2.3 // indirect
 	github.com/hashicorp/terraform-svchost v0.1.1 // indirect
 	github.com/hashicorp/yamux v0.1.1 // indirect
-	github.com/invopop/yaml v0.2.0 // indirect
+	github.com/invopop/yaml v0.3.1 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/labstack/gommon v0.4.2 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
