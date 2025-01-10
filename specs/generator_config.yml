@@ -1,0 +1,23 @@
+provider:
+  name: pingdom
+
+resources:
+  check:
+    create:
+      path: /checks
+      method: POST
+    read:
+      path: /checks/{checkid}
+      method: GET
+    update:
+      path: /checks/{checkid}
+      method: PUT
+    delete:
+      path: /checks/{checkid}
+      method: DELETE
+
+data_sources:
+  team:
+    read:
+      path: /alerting/teams/{teamid}
+      method: GET
